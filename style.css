@@ -1,0 +1,6 @@
+.container {
+  display: grid;
+  border-radius: 10px;
+  border-color: red;
+  border: 10px;
+}
